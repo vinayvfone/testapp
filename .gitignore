@@ -1,0 +1,4 @@
+# node dependancies
+node_modules/
+.husky
+package-lock.json
